@@ -1,0 +1,6 @@
+project = "kern"
+harness_files = [
+    "AGENTS.md",
+    "CLAUDE.md",
+    "GEMINI.md",
+]
